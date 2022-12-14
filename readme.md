@@ -14,11 +14,11 @@ Given a single starting node ID `089ef556-dfff-4ff2-9733-654645be56fe`, write an
 
 1. **What is the total number of unique node IDs?**
 
-<b>a06c90bf-e635-4812-992e-f7b1e2408a3f</b>
+<b>29</b>
 
 2. **What is the most common node ID?**
 
-<b>29</b>
+<b>a06c90bf-e635-4812-992e-f7b1e2408a3f</b>
 
 ## Details
 
